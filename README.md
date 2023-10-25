@@ -1,4 +1,4 @@
-[![MasterHead]([(https://res.cloudinary.com/de4xozulb/image/upload/v1698216154/Profile%20Pictures/ee57bydumjdsvwzphkl5.png))]
+[![MasterHead]([https://res.cloudinary.com/de4xozulb/image/upload/v1698216154/Profile%20Pictures/ee57bydumjdsvwzphkl5.png)]
 <h1 align="center">Hi 👋, I'm Mezbah Uddin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
