@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/developer-mezbah" target="blank"><img src="https://img.shields.io/twitter/follow/developer-mezbah?logo=twitter&style=for-the-badge" alt="developer-mezbah" /></a> </p>
 
-- 🔭 I’m currently working on **Hotel Booking App**
+- 🔭 I’m currently working on **My own path**
 
 - 🌱 I’m currently learning **MERN, Next.js**
 
